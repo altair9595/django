@@ -1,0 +1,20 @@
+   windows
+
+python -m venv .........DjBlog
+cd .\.......\
+.\Scripts\activate
+pip install django   -----> pip install django==4.2
+django-dmin startproject.......neme project
+cd src
+python manage.py migrate\\\\\\\\\\\
+python manage.py runserver    127.0.0.1:8008
+python manage.py  createsuperuser
+
+
+-------------------
+    mac, lunix
+python -m venv ..........
+cd .\.......\
+source bin\activate
+
+
